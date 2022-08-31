@@ -15,3 +15,6 @@ Run app
 python3 app.py
 ```
 
+This script punishes the fake link
+
+https://bit.ly/3pTAzlY
